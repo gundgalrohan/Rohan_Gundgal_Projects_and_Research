@@ -21,6 +21,7 @@ An interactive Power BI dashboard analyzing 10,000 financial transactions to ide
 ## Dataset
 
 Synthetic financial fraud dataset (10,000 transactions) with columns: transaction_id, user_id, amount, transaction_type, merchant_category, country, hour, device_risk_score, ip_risk_score, is_fraud.
+(https://www.kaggle.com/datasets/umitka/synthetic-financial-fraud-dataset)
 
 ## Key Findings
 
